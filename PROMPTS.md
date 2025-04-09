@@ -22,4 +22,11 @@ Develop a Salesforce MCP server for Artificial Intelligence which :
 - works with the most used chat AI solutions or IDEs such as Cursor, ChatGPT, Claude, Github Copilot, Gemini, etc.
 - a README which explains how to install it with a simple 'npm install' command
 - a separate README chapter for integration in each chat AI solution or IDE, with a very short prompt to test the newly installed MCP server
-```
+
+## Tooling
+
+Use JSforce v3
+Use Typescript 5.8
+Use @modelcontextprotocol/sdk 1.9
+Use OpenAPI 3
+
