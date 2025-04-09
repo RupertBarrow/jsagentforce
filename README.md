@@ -16,7 +16,6 @@ https://github.com/kazuki1213/mcp-server-salesforce
 - the existing JSforce library which interfaces with all Salesforce APIs
 
 Develop a Salesforce MCP server for Artificial Intelligence which :
-
 - addresses all APIs managed by JSforce
 - uses all the documentation information found at https://developer.salesforce.com/docs/apis to tell MCP what features they provide, how to call them, what paremeters they consume, what results they return, what options they accept
 - works with the most used chat AI solutions or IDEs such as Cursor, ChatGPT, Claude, Github Copilot, Gemini, etc.
