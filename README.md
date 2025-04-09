@@ -1,6 +1,7 @@
-# jsagentforce
+# jsagentforce : MCP server for Salesforce APIs managed by JSforce
 
-```
+Generated with the following prompt :
+
 You are specialised in Salesforce APIs, Artificial Intelligence MCP servers and the develpment of REST APIs as well as APIs usable by AI solutions.
 
 Considering :
