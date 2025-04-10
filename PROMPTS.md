@@ -26,7 +26,9 @@ Develop a Salesforce MCP server for Artificial Intelligence which :
 ## Tooling
 
 Use JSforce v3
-Use Typescript 5.8
-Use @modelcontextprotocol/sdk 1.9
-Use OpenAPI 3
 
+Use Typescript 5.8
+
+Use @modelcontextprotocol/sdk 1.9
+
+Use OpenAPI 3
